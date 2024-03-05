@@ -1,0 +1,9 @@
+# GET https://8080-gabrielcpai-springsimpl-tngcp8xl564.ws-us108.gitpod.io/filme
+
+POST https://8080-gabrielcpai-springsimpl-tngcp8xl564.ws-us108.gitpod.io/filmes
+Content-Type: application/json
+
+{
+    "titulo": "Novo Filme 3",
+    "sinopse": "Teste de POST"
+}
