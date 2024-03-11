@@ -1,0 +1,6 @@
+POST https://8080-gabrielcpai-springsimpl-qhr14ul4h52.ws-us108.gitpod.io/diretores
+Content-Type: application/json
+
+{
+    "nome": "Novo Diretor"
+}
